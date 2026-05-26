@@ -2,6 +2,11 @@
 
 A professional digital banking application built with Python and CustomTkinter, designed to provide a secure and user-friendly banking experience.
 
+## 📸 Screenshots
+
+![Jambo Bank Professional](screenshots/jambo_bank_pro_home.png)
+*Jambo Bank Professional Edition - Welcome Screen*
+
 ## Features
 
 - **Account Management**
